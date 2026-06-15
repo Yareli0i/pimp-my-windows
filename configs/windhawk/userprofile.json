@@ -1,0 +1,30 @@
+{
+  "app": {
+    "latestVersion": "1.7.3",
+    "version": "1.7.3"
+  },
+  "id": "{60924962-4291-4561-9DD9-8E962C5FBECD}",
+  "mods": {
+    "icon-resource-redirect": {
+      "latestVersion": "1.2.5",
+      "version": "1.2.5"
+    },
+    "taskbar-background-helper": {
+      "latestVersion": "1.2",
+      "version": "1.2"
+    },
+    "windows-11-taskbar-styler": {
+      "latestVersion": "1.7",
+      "version": "1.7"
+    },
+    "windows-11-file-explorer-styler": {
+      "version": "1.4",
+      "latestVersion": "1.4"
+    },
+    "windows-11-notification-center-styler": {
+      "version": "1.5",
+      "latestVersion": "1.5"
+    }
+  },
+  "os": "10.0.26200"
+}

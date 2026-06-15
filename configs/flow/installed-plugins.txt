@@ -1,0 +1,4 @@
+FlowYouTube-2.1.0
+Obsidian-1.1.1
+SpotifyPremium-1.1.7
+SteamFlow-2.1.0

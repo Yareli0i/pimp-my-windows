@@ -1,0 +1,19 @@
+# Junk / caches
+**/__pycache__/
+**/Cache/
+**/cache_img/
+**/cache_app_details/
+**/cache_avatar/
+*.pyc
+*.log
+*.bak
+
+# Secrets - NEVER commit
+**/security.store
+**/secure_storage*
+**/session_token*
+**/*.token
+**/History.json
+
+# Flow plugin internals (reinstalled via Flow)
+configs/flow/Plugins/
